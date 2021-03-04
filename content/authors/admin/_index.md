@@ -18,7 +18,7 @@ bio: My research interests include systems for data science, data lineage, cloud
 
 # Interests to show in About widget
 interests:
-- Data Lineage / Discovery for Usability 
+- Data Lineage / Discovery for Usability
 - Data Science Systems and Infrastructure
 - Cloud Computing
 - General-Purpose Computation on Graphics Processing Units (GPGPUs)
@@ -74,6 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-I'm a graduate student at the University of Chicago's <a href="https://uchi-db.github.io/chidatasite/index.html">CHIDATA Group</a>, working under <a href="http://people.cs.uchicago.edu/~aelmore/">Prof. Aaron J. Elmore</a>. I'm interested in systems for data science, specifically with regards to data lineage for usability and data discovery.
+I'm a graduate student at the University of Chicago's <a href="https://uchi-db.github.io/chidatasite/index.html">CHIDATA Group</a>, working under <a href="http://people.cs.uchicago.edu/~aelmore/">Prof. Aaron J. Elmore</a>. I'm interested in systems for data science, specifically data lineage for usability and data discovery.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/suhail_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

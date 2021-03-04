@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Suhail Rehman # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'http://people.cs.uchicago.edu/~suhail/' # Website URL
+copyright: '© {year} Suhail Rehman' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

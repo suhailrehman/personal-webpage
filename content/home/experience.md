@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Analyst
     company: Carnegie Mellon University in Qatar
-    company_url: 'https://qatar.cmu.edu/'
+    # company_url: 'https://qatar.cmu.edu/'
     location: Doha, Qatar
     date_start: '2010-01-01'
     date_end: '2014-07-31'
@@ -34,7 +34,7 @@ experience:
         * Curriculum Development for Cloud Computing for CMU
   - title: Research Intern
     company: GE Global Research
-    company_url: 'https://ge.com/research'
+    # company_url: 'https://ge.com/research'
     location: Bangalore, India
     date_start: '2008-04-01'
     date_end: '2008-06-30'
