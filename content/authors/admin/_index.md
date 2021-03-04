@@ -76,4 +76,8 @@ highlight_name: false
 
 I'm a graduate student at the University of Chicago's <a href="https://uchi-db.github.io/chidatasite/index.html">CHIDATA Group</a>, working under <a href="http://people.cs.uchicago.edu/~aelmore/">Prof. Aaron J. Elmore</a>. I'm interested in systems for data science, specifically data lineage for usability and data discovery.
 
+I have previously worked on:
+* Cloud computing systems at <a href="https://web2.qatar.cmu.edu/~suhailr/">CMU Qatar</a>.
+* GPU Computing at <a href="https://cvit.iiit.ac.in/research/thesis/thesis-students/exploring-irregular-memory-access-applications-on-the-gpu">IIIT-Hyderabad</a>.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/suhail_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

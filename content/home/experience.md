@@ -30,7 +30,7 @@ experience:
     date_end: '2014-07-31'
     description: |2-
 
-        * Worked on QNRF funded resarch on Cloud Computing
+        * Worked on QNRF funded research on Cloud Computing systems for Data Science
         * Curriculum Development for Cloud Computing for CMU
   - title: Research Intern
     company: GE Global Research
