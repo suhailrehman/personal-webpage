@@ -23,15 +23,19 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Analyst
-    company: Carngeie Mellon University in Qatar
+    company: Carnegie Mellon University in Qatar
     company_url: 'https://qatar.cmu.edu/'
     location: Doha, Qatar
     date_start: '2010-01-01'
     date_end: '2014-07-31'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+
+        * Worked on QNRF funded resarch on Cloud Computing
+        * Curriculum Development for Cloud Computing for CMU
+  - title: Research Intern
+    company: GE Global Research
+    company_url: 'https://ge.com/research'
+    location: Bangalore, India
+    date_start: '2008-04-01'
+    date_end: '2008-06-30'
 ---
