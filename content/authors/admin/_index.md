@@ -6,7 +6,7 @@ title: Suhail Rehman
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Assistant Instructional Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,8 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include systems for data science, data lineage, cloud computing, and GPGPUs
 
-# Interests to show in About widget
+
+
 interests:
 - Data Lineage / Discovery for Usability
 - Data Science Systems and Infrastructure
@@ -28,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Chicago
-    year: 2016 - current
+    year: 2023
   - course: Masters in Computational Data Science
     institution: Carnegie Mellon University
     year: 2016
@@ -74,10 +75,10 @@ email: ""
 highlight_name: false
 ---
 
-I'm a graduate student at the University of Chicago's <a href="https://uchi-db.github.io/chidatasite/index.html">CHIDATA Group</a>, working under <a href="http://people.cs.uchicago.edu/~aelmore/">Prof. Aaron J. Elmore</a>. I'm interested in systems for data science, specifically data lineage for usability and data discovery.
+I'm an Assistant Instructional Professor at the University of Chicago's <a href="https://cs.uchicago.edu">Department of Computer Science</a> and <a href="https://college.uchicago.edu/">The College</a>. I completed my Ph.D. in Computer Science under <a href="http://people.cs.uchicago.edu/~aelmore/">Prof. Aaron J. Elmore</a>. I'm interested in systems for data science, specifically data lineage for usability and data discovery.
 
 I have previously worked on:
-* Cloud computing systems at <a href="https://web2.qatar.cmu.edu/~suhailr/">CMU Qatar</a>.
+* Cloud computing systems and Education at CMU.
 * GPU Computing at <a href="https://cvit.iiit.ac.in/research/thesis/thesis-students/exploring-irregular-memory-access-applications-on-the-gpu">IIIT-Hyderabad</a>.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/suhail_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

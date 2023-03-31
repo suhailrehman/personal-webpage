@@ -22,6 +22,10 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Instructional Professor
+    company: University of Chicago
+    location: Chicago, IL
+    date_start: '2023-03-11'
   - title: Research Analyst
     company: Carnegie Mellon University in Qatar
     # company_url: 'https://qatar.cmu.edu/'
