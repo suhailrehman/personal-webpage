@@ -35,8 +35,20 @@ subtitle: "A few of the course I have taught and/or TAed over the years:"
 #   #   4 = Citation (publication only)
 #   view: 1
 ---
+
+If you are a student interested in taking a course with me, please feel free to 
+reach out to me for more information. I am always happy to talk about the 
+courses I teach and the material I cover. Here are a list of FAQ pages related
+to the CS courses if you need a quick reference:
+
+- [CS Intro Course Sequence FAQ](https://cs.uchicago.edu/academics/undergraduate/new-introductory-computer-science-sequence-frequently-asked-questions-faq/)
+- [CS Major FAQ](https://cs.uchicago.edu/academics/undergraduate/cs-major-faq/)
+
 ## Current
-- **CMSC 23500**: Introduction to Databases (<a href="https://classes.cs.uchicago.edu/current/23500-1/">Spring 2023</a>)
+- **CMSC 14100**: Introduction to Computer Science I (2023 - current)
+- **CMSC 14200**: Introduction to Computer Science II (2024)
+- **CMSC 23500**: Introduction to Databases (<a href="https://classes.cs.uchicago.edu/archive/2023/spring/23500-1/">Spring 2023</a>)
+
 ## Past
 - **MPCS 51042**: Python Programming (<a href="https://people.cs.uchicago.edu/~suhail/mpcs51042/w23/">Winter 2023</a>)
 
