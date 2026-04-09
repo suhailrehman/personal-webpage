@@ -26,6 +26,10 @@ experience:
     company: University of Chicago
     location: Chicago, IL
     date_start: '2023-03-11'
+  - title: Graduate Research Assistant
+    company: University of Chicago
+    location: Chicago, IL
+    date_start: '2016-09-10'
   - title: Research Analyst
     company: Carnegie Mellon University in Qatar
     # company_url: 'https://qatar.cmu.edu/'
