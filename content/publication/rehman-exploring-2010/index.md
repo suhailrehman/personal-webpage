@@ -4,7 +4,6 @@
 title: Exploring irregular memory access applications on the GPU
 subtitle: "Master's Thesis"
 summary: "Master's Thesis"
-abstract:
 authors:
 - Mohammed Suhail Rehman
 tags: ['masters thesis', 'gpgpu', 'cuda', 'graph algorithms']

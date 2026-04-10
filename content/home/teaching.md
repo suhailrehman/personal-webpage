@@ -35,8 +35,7 @@ subtitle: "A few of the course I have taught and/or TAed over the years:"
 #   #   4 = Citation (publication only)
 #   view: 1
 ---
-
-If you are a student interested in taking a course with me, please feel free to 
+If you are a student at UChicago interested in taking a course with me, please feel free to 
 reach out to me for more information. I am always happy to talk about the 
 courses I teach and the material I cover. Here are a list of FAQ pages related
 to the CS courses if you need a quick reference:

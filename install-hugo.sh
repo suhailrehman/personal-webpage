@@ -1,4 +1,3 @@
-# Stupid hugo version needs to be 0.101.0 for "wowchemy" to work correctly:
-
-wget https://github.com/gohugoio/hugo/releases/download/v0.101.0/hugo_extended_0.101.0_Linux-64bit.deb
-sudo dpkg -i hugo_extended_0.101.0_Linux-64bit.deb
+# Hugo 0.160.1+ works with the wowchemy theme via local template overrides in layouts/
+wget https://github.com/gohugoio/hugo/releases/download/v0.160.1/hugo_extended_0.160.1_linux-amd64.deb
+sudo dpkg -i hugo_extended_0.160.1_linux-amd64.deb
