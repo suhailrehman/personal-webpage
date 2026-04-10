@@ -30,10 +30,8 @@ abstract: 'In this paper, we present our experience integrating Rust, a memory-s
   overwhelmingly positive, we provide insights for educators considering Rust for
   similar systems-oriented elective CS courses.'
 publication: "*Proceedings of the 4th International Workshop on Data Systems Education: Bridging Education Practice with Education Research (DataEd '25)*"
-hugoblox:
-  ids:
-    doi: 10.1145/3735091.3737532
+doi: 10.1145/3735091.3737532
 links:
-  - type: pdf
-    url: 'rehman_crustydb_2025.pdf'
+  - name: URL
+    url: 'https://doi.org/0.1145/3735091.3737532'
 ---

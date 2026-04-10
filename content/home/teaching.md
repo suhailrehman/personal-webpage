@@ -47,7 +47,7 @@ to the CS courses if you need a quick reference:
 - **CAPP 30121**: Computer Science with Applications I (2024 - current)
 - **CMSC 14100**: Introduction to Computer Science I (2023 - current)
 - **CMSC 14200**: Introduction to Computer Science II (2024)
-- **CMSC 23500**: Introduction to Databases (<a href="https://classes.cs.uchicago.edu/archive/2023/spring/23500-1/">Spring 2023</a>, Spring 2024, <a href="https://classes.cs.uchicago.edu/archive/2025/spring/23500-1/">Spring 2025</a>)
+- **CMSC 23500**: Introduction to Databases (<a href="https://classes.cs.uchicago.edu/archive/2023/spring/23500-1/">Spring 2023</a>, Spring 2024, <a href="https://classes.cs.uchicago.edu/archive/2025/spring/23500-1/">Spring 2025</a>, <a href="https://classes.cs.uchicago.edu/archive/2026/winter/23500-1/">Winter 2026</a>)
 - **CMSC 23380**: Foundations of Distributed Systems (<a href="https://classes.cs.uchicago.edu/archive/2026/spring/23380-1/">Spring 2026</a>)
 
 ## Past
